@@ -1,0 +1,5 @@
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.DATA\obj\Debug\netcoreapp3.1\CadastroPessoa.DATA.csproj.AssemblyReference.cache
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.DATA\obj\Debug\netcoreapp3.1\CadastroPessoa.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.DATA\obj\Debug\netcoreapp3.1\CadastroPessoa.DATA.AssemblyInfoInputs.cache
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.DATA\obj\Debug\netcoreapp3.1\CadastroPessoa.DATA.AssemblyInfo.cs
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.DATA\obj\Debug\netcoreapp3.1\CadastroPessoa.DATA.csproj.CoreCompileInputs.cache

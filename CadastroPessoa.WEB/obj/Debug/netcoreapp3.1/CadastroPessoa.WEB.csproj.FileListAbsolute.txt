@@ -1,0 +1,8 @@
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.WEB\obj\Debug\netcoreapp3.1\CadastroPessoa.WEB.csproj.AssemblyReference.cache
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.WEB\obj\Debug\netcoreapp3.1\CadastroPessoa.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.WEB\obj\Debug\netcoreapp3.1\CadastroPessoa.WEB.AssemblyInfoInputs.cache
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.WEB\obj\Debug\netcoreapp3.1\CadastroPessoa.WEB.AssemblyInfo.cs
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.WEB\obj\Debug\netcoreapp3.1\CadastroPessoa.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.WEB\obj\Debug\netcoreapp3.1\CadastroPessoa.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.WEB\obj\Debug\netcoreapp3.1\CadastroPessoa.WEB.RazorAssemblyInfo.cache
+C:\Users\Smith\Desktop\cadastroPessoa\CadastroPessoa\CadastroPessoa.WEB\obj\Debug\netcoreapp3.1\CadastroPessoa.WEB.RazorAssemblyInfo.cs

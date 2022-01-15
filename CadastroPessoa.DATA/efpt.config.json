@@ -1,0 +1,53 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "GestaocadastrospessoasContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "CadastroPessoa.DATA",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[ENDERECO]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PESSOA]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PESSOA_TELEFONE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TELEFONE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TELEFONE_TIPO]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-2RP1P28\\SQLEXPRESS.GestaoCadastrosPessoas",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
